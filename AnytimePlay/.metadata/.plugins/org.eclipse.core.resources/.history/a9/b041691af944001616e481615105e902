@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+import javax.inject.Inject;
+import javax.inject.Named;
+import javax.ws.rs.Path;
+
+import org.springframework.web.client.RestTemplate;
+/**
+ * @author sirodi
+ *
+ */
+
+@Named
+@Path("/")
+public class DisplayCourtBooking {
+	
+	@Inject
+	private RestTemplate restTemplate;
+
+	
+	
+}

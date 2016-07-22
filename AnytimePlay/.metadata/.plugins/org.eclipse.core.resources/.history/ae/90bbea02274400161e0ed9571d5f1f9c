@@ -1,0 +1,9 @@
+package com.atp.core.contact.services;
+
+import org.springframework.context.annotation.Configuration;
+import org.glassfish.jersey.server.ResourceConfig;
+
+@Configuration
+public class ApplicationConfig {
+
+}

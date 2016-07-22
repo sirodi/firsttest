@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+import java.util.Date;
+
+/**
+ * @author sirodi
+ *
+ */
+public class CourtSlotsDTO {
+	 
+	
+	private Integer slotNumber;
+	
+	private Date bookingStartTime;
+	
+	private Integer bookingHours;
+	
+	private Date playStartTime;
+	
+	private Integer playedHours;
+	
+	private String allottedToGroup; 
+	
+
+}

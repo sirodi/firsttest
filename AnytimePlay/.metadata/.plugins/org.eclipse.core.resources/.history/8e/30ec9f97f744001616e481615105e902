@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+/**
+ * @author sirodi
+ *
+ */
+public class CourtSlotsDTO {
+	 
+	
+	private Integer slotNumber;
+	private Date startTime;
+	private Integer allotedHours;
+	private String allottedToGroup; 
+	
+
+}

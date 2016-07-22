@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+import java.util.List;
+
+/**
+ * @author sirodi
+ *
+ */
+public class CourtDetailDTO {
+	
+	private String courtName;
+	private List<CourtSlotsDTO> courtAllotmentList;
+	
+
+}

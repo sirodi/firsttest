@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+/**
+ * @author sirodi
+ *
+ */
+
+@Named
+@Path("/")
+public class DisplayCourtBooking {
+	
+	
+
+}

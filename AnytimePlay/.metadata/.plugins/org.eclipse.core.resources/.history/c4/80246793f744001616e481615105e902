@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+/**
+ * @author sirodi
+ *
+ */
+public class CourtSlotsDTO {
+	/*
+	 * Need to include court # , group name, members, group leader 
+	 */
+	
+
+}

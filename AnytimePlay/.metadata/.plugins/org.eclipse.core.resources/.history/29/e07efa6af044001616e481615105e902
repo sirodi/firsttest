@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.atp.core.services.rest;
+
+/**
+ * @author sirodi
+ *
+ */
+public class CourtDetailDTO {
+
+}
