@@ -1,6 +1,0 @@
-INDEX VERSION 1.3+D:\Local Disk\NewSpace\MySpace\QuickReferences\Personal\Goals\Projects\AnytimePlay\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2490701144.index
-3788790189.index
-334300591.index
-3966831776.index
-1765017276.index
